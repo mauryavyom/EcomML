@@ -91,3 +91,7 @@ A dynamic e-commerce application built with **Spring Boot** featuring a powerful
     python app.py
     ```
     > ✅ The recommendation service will be listening at `http://127.0.0.1:5000`.
+    
+    ## 📞 Contact
+For more details, please contact:
+- **Vyom Maurya**
